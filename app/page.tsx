@@ -13,7 +13,7 @@ export default function Home() {
 }
 export  function HomeConent(){
   return(
-    <h1>Conteúdo</h1>
+    <h1>Conteúdo Novo</h1>
   )
 }
 
